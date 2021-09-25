@@ -18,7 +18,7 @@ criaBotao("Entrar", (botao) => {
 
 criaBotao("Sair", (botao) => {
     botao.style.cssText = `
-        color: brown;
+        color: tomato;
         padding: 60px;
         border-radius: 20px;
         margin-left: 30px;
